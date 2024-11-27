@@ -156,6 +156,8 @@ Area report:
 
 Power Report:
 
-Result:
+
+
+## Result:
 
 The generic netlist of Traffic Light Controller has been created, and area, power reports have been tabulated and generated using Genus.
